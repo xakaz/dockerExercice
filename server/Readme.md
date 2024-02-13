@@ -1,1 +1,2 @@
-# quest 1726
+### `npm run dev`
+Command to start app in development mode
